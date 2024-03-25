@@ -1,0 +1,22 @@
+{
+  "kind": "column",
+  "name": "Find Index and Add One",
+  "description": "Finds the index of a given number in a series and adds one.",
+  "author": "Your Name <your-email@example.com>",
+  "params": [
+    {
+      "name": "series",
+      "displayName": "Series of Numbers",
+      "type": "string"
+    },
+    {
+      "name": "targetNumber",
+      "displayName": "Target Number",
+      "type": "number"
+    }
+  ],
+  "result": {
+    "type": "number"
+  }
+}
+
